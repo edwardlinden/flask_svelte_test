@@ -15,7 +15,7 @@
 <main>
 	<h1>Received Message: {src}!</h1>
 	<input type="text" placeholder="enter your name" bind:value={message} />
-<button on:click={getName}>Send Message</button></main>
+<button on:click={getName}>Ha api-mani och send message</button></main>
 
 <style>
 	main {
